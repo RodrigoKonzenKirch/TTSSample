@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TTS Sample</string>
+    <string name="button_read">Read it</string>
+    <string name="placeholder_user_input">Write a text here and tap the button above to hear it spoken out loud.</string>
+</resources>
